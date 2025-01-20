@@ -57,6 +57,14 @@ Here is the list of topics I have learned and practiced:
 14. **Loops**  
     - Mastering loops such as `for`, `while`, and `do-while` for iteration.
 
+15. **Methods**  
+    - Writing and using methods for modular and reusable code.  
+    - Understanding method parameters and return types.  
+
+16. **Object Creation**  
+    - Creating objects from classes and assigning values to their attributes.  
+    - Understanding how objects interact with each other in a program.  
+
 ---
 
 ## 🛠️ Tools and Environment
