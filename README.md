@@ -22,48 +22,75 @@ Here is the list of topics I have learned and practiced:
    - Declaring variables and exploring Java's data types.
 
 3. **Comments, Literals, and Type Conversion**  
-   - Single-line and multi-line comments, working with literals, and implicit/explicit type conversion.
+   - Writing single-line and multi-line comments, working with literals, and understanding implicit/explicit type conversion.
 
 4. **Getting Inputs**  
-   - Using `Scanner` class for user input.
+   - Using the `Scanner` class for user input and handling data.
 
 5. **Arithmetic Operators**  
-   - Basic mathematical operations: addition, subtraction, multiplication, division, and modulus.
+   - Performing basic mathematical operations: addition, subtraction, multiplication, division, and modulus.
 
 6. **Relational Operators**  
    - Working with comparison operators like `>`, `<`, `>=`, `<=`, `==`, and `!=`.
 
 7. **Bitwise Operators**  
-   - Using bitwise AND, OR, XOR, and complement operators.
+   - Performing bitwise operations using AND, OR, XOR, and complement operators.
 
 8. **Short Circuit Operators and Operator Precedence**  
    - Understanding logical operators (`&&`, `||`) and precedence rules in expressions.
 
 9. **Increment/Decrement Operations**  
-   - Exploring tricky questions with `++` and `--`.
+   - Exploring tricky questions and scenarios using `++` and `--`.
 
 10. **If-Else Statements**  
     - Writing conditional statements for decision-making.
 
 11. **If-Else Programs and Problem-Solving**  
-    - Solving problems on platforms like CodeSignal and implementing `if-else` logic.
+    - Solving CodeSignal problems and implementing logic with `if-else`.
 
 12. **Switch Statements**  
-    - Implementing switch cases for cleaner and more efficient branching.
+    - Using switch cases for cleaner and more efficient branching.
 
 13. **Arrays**  
-    - Declaring, initializing, and manipulating arrays.
+    - Declaring, initializing, and manipulating arrays in Java.
 
 14. **Loops**  
-    - Mastering loops such as `for`, `while`, and `do-while` for iteration.
+    - Mastering loops (`for`, `while`, `do-while`) for iterative operations.
 
-15. **Methods**  
-    - Writing and using methods for modular and reusable code.  
-    - Understanding method parameters and return types.  
+15. **Nested Loops**  
+    - Writing nested loops to handle complex logic and multi-dimensional arrays.
 
-16. **Object Creation**  
-    - Creating objects from classes and assigning values to their attributes.  
-    - Understanding how objects interact with each other in a program.  
+16. **Loop Control Statements**  
+    - Using `break` and `continue` to control loop flow.
+
+17. **Arrays and Loops (Solving Problems)**  
+    - Combining arrays and loops to solve LeetCode-style problems.
+
+18. **For-Each Loop**  
+    - Iterating through arrays and collections using enhanced `for` loops.
+
+19. **OOP Concepts**  
+    - **Classes and Objects**: Understanding class structure and creating objects.  
+    - **Methods**: Writing reusable methods with parameters and return types.  
+    - **Method Overloading**: Implementing multiple methods with the same name but different parameters.  
+
+20. **Constructors**  
+    - Understanding constructors and their usage in object initialization.
+
+21. **This Pointer**  
+    - Using `this` keyword to reference the current object.
+
+22. **Garbage Collector and Finalize**  
+    - Exploring memory management and the `finalize` method.
+
+23. **Stack Implementation**  
+    - Writing stack operations and implementing stacks using arrays.
+
+24. **Passing Objects and References**  
+    - Passing objects and references to methods and understanding their behavior.
+
+25. **Returning Objects**  
+    - Writing methods that return objects and their applications.
 
 ---
 
